@@ -2,26 +2,26 @@
 
 **Soft skin. Beautiful rituals.**
 
-A refined body-care ecommerce storefront concept with **65 products** across body creams, body butters, lotions, oils, scrubs, bath & shower, hand & foot care, gift sets, masks, body mists and ritual accessories.
+NOREA Body Care V2 is a professional body-care ecommerce storefront with **65 demo products** and an information architecture inspired by leading skincare education stores: clear product navigation, education, routine discovery, support, FAQs, and customer care.
 
-## Highlights
-- Large body-care assortment
-- Body creams and body butter
-- Lotions and body oils
-- Scrubs and exfoliants
-- Bath and shower
-- Hand and foot care
-- Gift sets
-- Body mists and masks
-- Spa accessories
-- Search and category navigation
-- Filters by texture and scent
-- Product detail pages
-- Wishlist and cart demo
-- Ritual collections
+## Store Categories
+Body Creams · Body Butters · Lotions · Body Oils · Scrubs & Exfoliants · Bath & Shower · Hand & Foot Care · Gift Sets · Body Wash · Masks · Body Mist · Bath Accessories
+
+## Experience
+- Hero-led homepage
+- Search
+- Category navigation
+- Texture and scent filters
+- Product pages
+- Wishlist
+- Shopping cart demo
+- Routine builder
+- Education / buying guides
+- FAQs
 - Customer support
+- Shipping and returns pages
 - Responsive design
-- Local photography
+- Local product photography
 - GitHub Pages ready
 
 ## Support
@@ -35,4 +35,4 @@ The phone number is a demo/example contact and should be replaced before commerc
 https://crcentral-nz.github.io/norea-body-care/
 
 ## Important
-Product names, prices, reviews, ingredient examples, claims, directions, warnings, sizes, availability and commercial policies may be demonstration content. Verify the actual formula, ingredient list, net quantity, manufacturer information, product claims, shipping, returns, pricing, photography rights and regulatory requirements before publication.
+Product names, prices, reviews, ingredient examples, claims, directions, warnings, sizes, availability and commercial policies may be demonstration content. Verify actual formula data, ingredient lists, product claims, net quantities, manufacturer information, pricing, availability, shipping, returns and asset rights before publication.
