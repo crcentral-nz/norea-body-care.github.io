@@ -1,27 +1,29 @@
-# NOREA Body Care
+# NOREA Body Care V3
 
 **Soft skin. Beautiful rituals.**
 
-NOREA Body Care V2 is a professional body-care ecommerce storefront with **65 demo products** and an information architecture inspired by leading skincare education stores: clear product navigation, education, routine discovery, support, FAQs, and customer care.
+A distinct editorial body-care storefront with **65 products**, rebuilt around calm navigation, routine-led discovery, clean square product presentation, customer education, and visible support.
 
-## Store Categories
+## Categories
 Body Creams · Body Butters · Lotions · Body Oils · Scrubs & Exfoliants · Bath & Shower · Hand & Foot Care · Gift Sets · Body Wash · Masks · Body Mist · Bath Accessories
 
-## Experience
-- Hero-led homepage
+## Features
+- New editorial-style homepage layout
+- Clean square product photography
+- No nested webpage screenshots inside product images
+- Category browsing
 - Search
-- Category navigation
-- Texture and scent filters
-- Product pages
+- Texture filters
+- Scent filters
+- Product detail pages
 - Wishlist
 - Shopping cart demo
 - Routine builder
 - Education / buying guides
-- FAQs
+- FAQ
+- Shipping / returns
 - Customer support
-- Shipping and returns pages
 - Responsive design
-- Local product photography
 - GitHub Pages ready
 
 ## Support
@@ -35,4 +37,4 @@ The phone number is a demo/example contact and should be replaced before commerc
 https://crcentral-nz.github.io/norea-body-care/
 
 ## Important
-Product names, prices, reviews, ingredient examples, claims, directions, warnings, sizes, availability and commercial policies may be demonstration content. Verify actual formula data, ingredient lists, product claims, net quantities, manufacturer information, pricing, availability, shipping, returns and asset rights before publication.
+Product names, prices, reviews, ingredients, claims, directions, sizes, availability and policies may be demonstration content. Verify actual formula data, ingredients, claims, product information, manufacturer details, pricing, shipping, returns and asset rights before publication.
