@@ -1,25 +1,29 @@
-# NOREA Body Care V5
+# NOREA Body Care V6
 
 **Soft skin. Beautiful rituals.**
 
-A redesigned body-care storefront with **65 products**, a product-first layout, clean square photography, routine discovery, educational content, customer support, wishlist and cart.
+A rebuilt body-care storefront with **65 products** and a clean product-first image system.
 
-## V5 Focus
-- Clean square product photography
-- No screenshot fragments inside product images
-- Product-first shopping experience
-- Clear category discovery
-- Routine-led editorial sections
-- Search and filters
-- 65-product catalog
-- Product details
+## Image rebuild
+- Product photos are dedicated studio packshots.
+- Every product photo is square, centered, contained, and free of webpage UI.
+- No screenshot fragments are used as product photography.
+- Category imagery uses the same clean photography system.
+
+## Store
+Body Creams · Body Butters · Lotions · Body Oils · Scrubs & Exfoliants · Bath & Shower · Hand & Foot Care · Gift Sets · Body Wash · Masks · Body Mist · Bath Accessories
+
+## Features
+- Search
+- Category filtering
+- Texture / scent filters
+- Product detail pages
 - Wishlist
 - Shopping cart demo
-- Guides and FAQs
+- Routine discovery
+- Guides and FAQ
 - Shipping / returns
-- Visible support email, phone and hours
-- Responsive design
-- GitHub Pages ready
+- Visible support contact
 
 ## Support
 support@noreabodycare.com
@@ -32,4 +36,4 @@ The phone number is a demo/example contact and should be replaced before commerc
 https://crcentral-nz.github.io/norea-body-care/
 
 ## Important
-Product names, prices, reviews, ingredients, claims, directions, sizes, availability and policies may be demonstration content. Verify actual formula data, ingredient lists, claims, manufacturer information, pricing, shipping, returns and image rights before commercial publication.
+Product names, prices, reviews, ingredients, claims, directions, sizes, availability and policies may be demonstration content. Verify actual formula data, product claims, manufacturer information, pricing, shipping, returns and image rights before commercial publication.
