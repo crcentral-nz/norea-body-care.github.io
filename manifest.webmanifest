@@ -1,0 +1,9 @@
+{
+  "name": "NOREA Body Care",
+  "short_name": "NOREA",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#3a2a27",
+  "background_color": "#fbf7f3",
+  "icons": []
+}
