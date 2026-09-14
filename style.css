@@ -13,3 +13,44 @@
 .page{background:var(--cream);min-height:65vh;padding:38px 5%}.page-intro h1{font:48px Georgia,serif;margin:7px 0}.page-intro p{font-size:11px;color:var(--muted);max-width:850px;line-height:1.7}.toolbar{display:flex;gap:7px;padding:10px;background:#f0e3dc;border:1px solid var(--line);margin:15px 0}.toolbar input,.toolbar select{padding:9px;background:#fff;border:1px solid #d7c9c2;font-size:8px}.detail{display:grid;grid-template-columns:1fr 1fr;gap:28px}.detail-photo{background:#fff;border:1px solid var(--line);display:flex;align-items:center;justify-content:center;min-height:560px}.detail-photo img{width:100%;height:560px;object-fit:contain;padding:25px}.content{max-width:900px;background:#fff;border:1px solid var(--line);padding:23px;line-height:1.9;color:var(--muted);font-size:10px}
 @media(max-width:1150px){.category-grid{grid-template-columns:repeat(4,1fr)}.product-grid{grid-template-columns:repeat(3,1fr)}.foot-top{grid-template-columns:repeat(3,1fr)}.head{grid-template-columns:160px 1fr}}
 @media(max-width:760px){.topbar{display:none}.head{grid-template-columns:1fr;justify-items:center}.nav-main{justify-content:flex-start;width:100%}.head-tools{justify-content:center}.editorial-hero{grid-template-columns:1fr}.hero-text{padding:50px 8%}.hero-text h1{font-size:50px}.hero-image{min-height:360px}.category-shelf,.care-feature,.support-bar{grid-template-columns:1fr;display:grid}.category-grid{grid-template-columns:repeat(2,1fr)}.editorial-strip{grid-template-columns:1fr}.product-grid{grid-template-columns:repeat(2,1fr)}.foot-top{grid-template-columns:1fr 1fr}.detail{grid-template-columns:1fr}}
+
+/* V7 IMAGE FIX — strict square frames, no cover-cropping for products */
+.product-photo,
+.product-photo img,
+.category-card img{
+  box-sizing:border-box;
+}
+.product-photo{
+  width:100%;
+  aspect-ratio:1 / 1;
+  height:auto;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  background:#f6eee9;
+  overflow:hidden;
+}
+.product-photo img{
+  width:100%;
+  height:100%;
+  display:block;
+  object-fit:contain;
+  object-position:center center;
+  padding:18px;
+}
+.category-card img{
+  display:block;
+  width:100%;
+  aspect-ratio:1 / 1;
+  height:auto;
+  object-fit:contain;
+  object-position:center center;
+  padding:6px;
+  background:#f7efea;
+}
+.editor-panel{background-position:center center;background-size:cover}
+.hero-image{background-position:center center}
+@media(max-width:760px){
+  .product-photo img{padding:12px}
+  .category-card img{padding:4px}
+}

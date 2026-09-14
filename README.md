@@ -1,29 +1,20 @@
-# NOREA Body Care V6
+# NOREA Body Care V7
 
 **Soft skin. Beautiful rituals.**
 
-A rebuilt body-care storefront with **65 products** and a clean product-first image system.
+NOREA V7 focuses on one thing: **clean product photography that looks like product photography**, not screenshots.
 
-## Image rebuild
-- Product photos are dedicated studio packshots.
-- Every product photo is square, centered, contained, and free of webpage UI.
-- No screenshot fragments are used as product photography.
-- Category imagery uses the same clean photography system.
+## Image system
+- 12 fresh studio product packshots
+- Distinct imagery across categories
+- Strict 1:1 square product frames
+- `object-fit: contain` for product images
+- Centered products with controlled internal padding
+- No screenshot fragments or webpage text inside product photos
+- Refreshed category and editorial imagery
 
 ## Store
-Body Creams · Body Butters · Lotions · Body Oils · Scrubs & Exfoliants · Bath & Shower · Hand & Foot Care · Gift Sets · Body Wash · Masks · Body Mist · Bath Accessories
-
-## Features
-- Search
-- Category filtering
-- Texture / scent filters
-- Product detail pages
-- Wishlist
-- Shopping cart demo
-- Routine discovery
-- Guides and FAQ
-- Shipping / returns
-- Visible support contact
+65 demo products across body creams, body butters, lotions, oils, scrubs, bath & shower, hand & foot care, gift sets, body wash, masks, body mist and accessories.
 
 ## Support
 support@noreabodycare.com
@@ -35,5 +26,4 @@ The phone number is a demo/example contact and should be replaced before commerc
 ## GitHub Pages
 https://crcentral-nz.github.io/norea-body-care/
 
-## Important
-Product names, prices, reviews, ingredients, claims, directions, sizes, availability and policies may be demonstration content. Verify actual formula data, product claims, manufacturer information, pricing, shipping, returns and image rights before commercial publication.
+Product information, formulas, ingredients, claims, prices, availability, shipping and return policies must be verified before commercial publication.
